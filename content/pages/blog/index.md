@@ -8,7 +8,7 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: 'Yes'
+    subtitle: What's Up - Value Engineering?
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
